@@ -1,5 +1,4 @@
 body {
- @import url('https://fonts.googleapis.com/css?family=Kanit&display=swap');
  
  background: #83a4d4;
  /* fallback for old browsers */
@@ -15,7 +14,7 @@ body {
 
 h1 {
     color: grey;
-    font-family: 'Kanit', sans-serif;
+    font-family: sans-serif;
 }
 
 h4 {
