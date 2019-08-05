@@ -2,7 +2,7 @@
 Weight Converter app.
 
 ## Inspired by Brad Traversy Media Tutorials.
-Javascript Playlist.
+Javascript Playlist Channel.
 
 ### Built With 
 * [Bootstrap] (https://getbootstrap.com)
