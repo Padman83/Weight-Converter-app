@@ -6,6 +6,7 @@ Javascript Playlist Channel.
 
 ### Built With 
 * [Bootstrap] (https://getbootstrap.com)
+* [Font Awesome] (https://fontawesome.com)
 * [jQuery] (https://https://jquery.com)
 * [cdnjs] (https://cdnjs.com)
 
