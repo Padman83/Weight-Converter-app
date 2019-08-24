@@ -16,4 +16,4 @@ Weight Converter app.
 
 ## Contact 
 
-Project Link: [https://github.com/Padman83/Weight-Converter-app] (https://github.com/Padman83/Weight-Converter-app)
+Project Link: [https://github.com/Padman83/Weight-Converter-app]
