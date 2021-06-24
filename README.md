@@ -3,14 +3,8 @@
 ### 🧰 System Requirements +  🛠️ Built With:
 
 * Cross-Platform.
-* [Visual Studio Code] (https://code.visualstudio.com)
-* [Bootstrap] (https://getbootstrap.com)
-* [Font Awesome] (https://fontawesome.com)
-* [jQuery] (https://https://jquery.com)
-* [cdnjs] (https://cdnjs.com)
-
-
-
-* [Brad Traversy] (https://github.com/bradtraversy)
-
-### Credit goes to Brad Traversy Media Tutorials.
+* [Visual Studio Code] 
+* [Bootstrap] 
+* [Font Awesome] 
+* [jQuery] 
+* [cdnjs] 
